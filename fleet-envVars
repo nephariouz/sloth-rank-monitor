@@ -2,7 +2,7 @@ ALLY_CODES_URL
 https://nephariouz.github.io/sloth-rank-monitor/fleet-allycodes.json
 
 ARENA_TYPE
-SQUAD
+FLEET
 
 CUSTOM_MESSAGE_CLIMB
 <:b_up:833460182997794837> · %USER_ICON%[%PLAYER_NAME%](<https://swgoh.gg/p/%ALLY_CODE%/>) climbed from %PREVIOUS_RANK% <:b_right:833460183656562728> %CURRENT_RANK%. Payout in %TIME_TO_PO% %TAG_ON_CLIMB%
