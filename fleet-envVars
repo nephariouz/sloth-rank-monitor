@@ -1,0 +1,20 @@
+ALLY_CODES_URL
+https://nephariouz.github.io/sloth-rank-monitor/fleet-allycodes.json
+
+ARENA_TYPE
+SQUAD
+
+CUSTOM_MESSAGE_CLIMB
+<:b_up:833460182997794837> · %USER_ICON%[%PLAYER_NAME%](<https://swgoh.gg/p/%ALLY_CODE%/>) climbed from %PREVIOUS_RANK% <:b_right:833460183656562728> %CURRENT_RANK%. Payout in %TIME_TO_PO% %TAG_ON_CLIMB%
+
+CUSTOM_MESSAGE_DROP
+<:b_down:833460183005921280> · %USER_ICON%[%PLAYER_NAME%](<https://swgoh.gg/p/%ALLY_CODE%/>) dropped to %CURRENT_RANK% <:b_left:833460183584735262> %PREVIOUS_RANK%. Payout in %TIME_TO_PO% %TAG_ON_DROP%
+
+CUSTOM_MESSAGE_STATUS
+%USER_ICON%%PLAYER_NAME% is at %CURRENT_RANK%. Payout in %TIME_TO_PO%
+
+DISABLE_STATUS_MESSAGE
+TRUE
+
+DISCORD_WEB_HOOK
+https://discord.com/api/webhooks/745835257902792754/N6S157n-4wQxLxaKEtZ-X4_Hy1h2p7LkQeD6cA6q_RgsElo7W2bYuhkQrAYsdsNX61fS
